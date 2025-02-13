@@ -31,6 +31,7 @@ function App() {
                     path="/"
                     element={
                         <>
+                            <h1>Hello world </h1>
                             <Homepage />
                             <About />
                             <Service />
